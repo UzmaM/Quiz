@@ -1,0 +1,53 @@
+body {
+  font-family: sans-serif;
+  background-color: antiquewhite;
+}
+header{
+  background-color: black;
+}
+.question {
+  color: brown;
+  text-align: center;
+  font-size: 2em;
+}
+
+.questionNumber {
+  background-color: black;
+  color: brown;
+  text-align: center;
+  padding: 2em;
+  font-size: 1.5em;
+}
+
+.answers {
+  font-size: 1em;
+}
+
+.answers label {
+  color: brown;
+  vertical-align: middle;
+  font-size: 1.2em;
+}
+
+.answers input {
+  margin-left: 46em;
+  vertical-align: middle;
+  width: 1.2em;
+  height: 1.2em;
+}
+
+.button {
+  text-align: center;
+}
+
+.answers button {
+  background-color: burlywood;
+  width: 5%;
+  padding: .5em;
+  margin: 2.5em;
+}
+
+.score {
+  text-align: center;
+  font-size: 4rem;
+}
